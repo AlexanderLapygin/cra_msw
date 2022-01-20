@@ -4,7 +4,7 @@
     </a>
 </div>
 
-# CRA starter with testing by React Testing Library and MSW
+# CRA starter with Mock Server Worker
 
 ## Feature tags
 
@@ -12,21 +12,19 @@
 - javascript
 - mock-server-worker
 - react
-- react-testing-library
 - rest
 - starter
 - template
-- testing
 
 ---
 
 ## Direct ancestors
 
-[***- msw, rest, cypress, rtl***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
+[***- msw, rest***: cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
 
 ## Direct descendants
 
-[***+ cypress, e2e***: cra_rtl_cypress_msw](https://github.com/AlexanderLapygin/cra_rtl_cypress_msw)
+[***+ rtl***: cra_rtl_msw](https://github.com/AlexanderLapygin/cra_rtl_msw)
 
 ---
 
@@ -48,14 +46,6 @@ Being in the repository root directory, run:
 
 ```sh
 yarn start
-```
-
-## Running test (in watch mode)
-
-Being in the repository root directory, run:
-
-```sh
-yarn test
 ```
 
 ## Authors
